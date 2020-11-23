@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\bin\Release\Ast2500CSDllSample.exe.config
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\bin\Release\Ast2500CSDllSample.exe
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\bin\Release\Ast2500CSDllSample.pdb
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.Ast2500CSDll.resources
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.Properties.Resources.resources
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.exe
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.pdb
+C:\Program Files (x86)\Ast2500SDK\Samples\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Release\Ast2500CSDllSample.csprojResolveAssemblyReference.cache

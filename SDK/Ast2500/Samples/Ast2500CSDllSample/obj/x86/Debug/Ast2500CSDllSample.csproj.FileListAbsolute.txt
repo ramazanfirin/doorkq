@@ -1,0 +1,8 @@
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\bin\Debug\Ast2500CSDllSample.exe.config
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\bin\Debug\Ast2500CSDllSample.exe
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\bin\Debug\Ast2500CSDllSample.pdb
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Debug\Ast2500CSDllSample.Ast2500CSDll.resources
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Debug\Ast2500CSDllSample.Properties.Resources.resources
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Debug\Ast2500CSDllSample.csproj.GenerateResource.Cache
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Debug\Ast2500CSDllSample.exe
+C:\SoftWare\DoorKqNew\DoorKq\Ast2500CSDllSample\Ast2500CSDllSample\obj\x86\Debug\Ast2500CSDllSample.pdb

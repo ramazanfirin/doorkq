@@ -1,0 +1,1 @@
+H:\FKAttend\Samples\FKAttend_dll_sample\general\c#\bin\Debug\FKAttendDllCSSample.exe.config
